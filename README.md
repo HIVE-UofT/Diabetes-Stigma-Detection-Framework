@@ -1,4 +1,4 @@
-# The Cultural Ceiling of Large Language Models: Quantifying the Interpretative Friction in Diabetes Stigma Detection
+# Large language models lose diabetes stigma signals when patient culture shifts
 
 ## Abstract
 
